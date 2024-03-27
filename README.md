@@ -1,16 +1,24 @@
-### Hi there 👋
+                                                      ### Hey i`m Kalashnikov 👋 ###
 
-<!--
-**kalashnikovn/kalashnikovn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ - 🔭 I do backend development on **ASP.NET**
+ - 📫 Contact me on [telegram](https://t.me/gokalashnikov)
+<br>
+<div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalashnikovn&layout=compact&theme=tokyonight"/>
+    <span>&nbsp;</span>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kalashnikovn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div style="display: inline_block">
+  <br>
+    <img align"center"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+    <img align"center"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+    <img align"center"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img align"center"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+    <img align"center"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+    <img align"center"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" />
+    <img align"center"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+</div>
+  

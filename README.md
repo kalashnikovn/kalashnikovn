@@ -2,6 +2,7 @@
 
 
  - 🔭 I do backend development on **ASP.NET**
+ - ⚙️ I use daily: `.cs`, `.go`, `.sol`, `.py`
  - 📫 Contact me on [telegram](https://t.me/gokalashnikov)
 <br>
 <div>

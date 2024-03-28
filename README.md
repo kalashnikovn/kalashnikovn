@@ -1,9 +1,12 @@
-                                                      ### Hey i`m Kalashnikov 👋 ###
-
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kalashnikov....;Nice+to+meet+you!&center=true&size=20">
+  </a>
+</h2>
 
  - 🔭 I do backend development on **ASP.NET**
  - ⚙️ I use daily: `.cs`, `.go`, `.sol`, `.py`
- - 📫 Contact me on [telegram](https://t.me/gokalashnikov)
+ - 📫 How to reach me: [telegram](https://t.me/gokalashnikov)
 <br>
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalashnikovn&layout=compact&theme=tokyonight"/>
